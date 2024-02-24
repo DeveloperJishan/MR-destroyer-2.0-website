@@ -1,17 +1,36 @@
+
 #one{
     font-family: cursive;
     color: pink;
     background-color: black;
     text-align: center;
     font-weight: bolder;
-
+    height: 60px;
+    font-size: larger;
+    font-size: larger;
 }
 h1{
     text-align: center;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: bolder;
+color: aqua;
+background-color: black;
+height: 80px;
+font-size: xx-large;
+border: 5px solid rgb(235, 192, 255);
+border-radius: 18px;
+padding: 18px;
+height: 60px;
 
 }
 #underdev{
     text-align: center;
     color: red;
+    background-color: black;
+}
+#yil{
+border: 7px dashed cadetblue;
+height: auto;
+width: 100px;
+border-radius: 5px;
 }
